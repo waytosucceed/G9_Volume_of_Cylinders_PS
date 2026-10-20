@@ -1,0 +1,308 @@
+    {
+      "heading": "G9_Volume of Cylinders",
+  "topics": [
+    {
+      "heading": "Volume of Cylinders",
+      "questions": [
+  
+ 
+  {
+    "questionNo": 1,
+    "question": [
+      "The universal formula for the volume of a cylinder is V = π × r² × h. By examining the vertical cylinder shown below, state the correct numerical values for the radius (r) and the height (h) that would be substituted into the formula."
+    ],
+    "options": [
+      "r = 36 m, h = 50 m",
+      "r = 18 m, h = 50 m",
+      "r = 72 m, h = 50 m",
+      "r = 18 m, h = 25 m"
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Cylinders can sometimes lie on their side. Examine the horizontal cylinder below and state the values of the radius (r) and the height (h) required for the volume formula. <br><img src='./assests/images/question/3.png' width = '30%' >",
+      "<br>The values are r = ______ cm and h = ______ cm."
+    ],
+    "input": [
+      "",
+      ""
+    ],
+    "answer": [
+      "5.6",
+      "22.4"
+    ]
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "When calculating the capacity of a cylinder, you must often convert between solid volume and liquid capacity. Remember that<b> 1 m³ = 1000 Litres (L).</b> Convert a volume of 12.4 m³ into Litres."
+    ],
+    "options": [
+      "1240 L",
+      "124 L",
+      "12400 L",
+      "124000 L"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A small cylindrical container has a volume of 4200 cm³. Remember that <b>1 Litre (L) = 1000 cm³</b>. Convert this volume into Litres.",
+      "<br>The capacity is ______ L."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "4.2"
+    ]
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Calculate the exact volume of a cylinder with a radius of 4 cm and a height of 15 cm. Use 3.14 as an approximation for π."
+    ],
+    "options": [
+      "753.6 cm³",
+      "376.8 cm³",
+      "188.4 cm³",
+      "942.0 cm³"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A large industrial pipeline has an internal diameter of 28 m and a length of 5 m. Calculate the volume of space inside the pipe. Use the fraction ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π.",
+      "<br>The volume inside the pipe is ______ m³."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "3080"
+    ]
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "A solid copper cylinder has a radius of 6 mm and a height of 20 mm. Find the exact volume of the cylinder, leaving your answer in terms of π."
+    ],
+    "options": [
+      "240π mm³",
+      "720π mm³",
+      "360π mm³",
+      "480π mm³"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A cylindrical food storage bin has a radius of 30 cm and a height of 40 cm. Calculate the total liquid capacity of this bin in Litres. Use 3.14 for π."
+    ],
+    "options": [
+      "1130.4 L",
+      "113.04 L",
+      "11.304 L",
+      "56.52 L"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A chemical plant has a large cylindrical mixing vat with a diameter of 30 m and a height of 8 m. What is the maximum capacity of this vat in kilolitres (kL)? Use 3.14 for π.",
+      "<br><i>(Hint: 1 cubic metre (m³) holds exactly 1 kilolitre (kL)).</i>",
+      "<br>The capacity is ______ kL."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "5652"
+    ]
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "The depth of water in a cylinder can be found if the volume of water and the base area are known. A cylindrical water tank has a base radius of 50 cm. It currently contains exactly 314 Litres of water. Using 3.14 for π, calculate the depth of the water in the tank."
+    ],
+    "options": [
+      "20 cm",
+      "60 cm",
+      "40 cm",
+      "80 cm"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "A city's cylindrical water reservoir has a diameter of 28 m. After a heavy storm, the reservoir collected 1,232,000 Litres of rainwater. By how many metres did the water depth rise? Use ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π.",
+      "<br>The depth of the water rose by ______ m."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "2"
+    ]
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "A solid iron cylindrical rod has a radius of 3 cm and a length of 14 cm. If the density of the iron is 5 grams per cubic centimetre (g/cm³), what is the total mass of the rod? Use ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π."
+    ],
+    "options": [
+      "990 g",
+      "1980 g",
+      "1485 g",
+      "2970 g"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "A wooden cylindrical block has a radius of 20 cm and a height of 15 cm. The specific type of wood has a density of 1.5 grams per cubic centimetre (g/cm³). What is the mass of the block in kilograms (kg)? Use 3.14 for π.",
+      "<br>The mass of the block is ______ kg."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "28.26"
+    ]
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "The total volume of a cylindrical container is 6160 cm³, and its height is 10 cm. By working backwards using the volume formula, calculate the exact length of its radius. Use ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π."
+    ],
+    "options": [
+      "14 cm",
+      "7 cm",
+      "21 cm",
+      "28 cm"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "A cylindrical column has a volume of 301.44 m³ and a base radius of 4 m. Work backwards to find the height of the column. Use 3.14 for π.",
+      "<br>The height of the column is ______ m."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "6"
+    ]
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "A farming supplies company is choosing between two different grain silos. Silo A is a perfect cube with a side length of 4 m. Silo B is a cylinder with a radius of 2 m and a height of 5 m. Using 3.14 for π, determine which silo has the larger volume and calculate the exact difference between them."
+    ],
+    "options": [
+      "Silo B is larger by 1.20 m³",
+      "Silo A is larger by 1.20 m³",
+      "Silo B is larger by 2.40 m³",
+      "Silo A is larger by 2.40 m³"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "A carpenter creates a rectangular wooden block measuring 20 cm wide, 10 cm high, and 25 cm long. A cylindrical hole with a radius of 5 cm is bored straight through the entire 25 cm length of the block. Using 3.14 for π, calculate the volume of the remaining wooden solid.<br><img src = './assests/images/question/5.png' width = '30%' >",
+      "<br>The volume of the remaining solid is ______ cm³."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "3037.5"
+    ]
+  },
+  {
+    "questionNo": 18,
+    "question": [
+      "Eight identical cylindrical energy drink cans are packed tightly into a rectangular cardboard carton. Each can has a radius of 4 cm and a height of 15 cm. They are arranged in 2 rows of 4. Assuming the carton touches the edges of the cans perfectly, calculate the volume of the empty space (air) inside the carton. Use 3.14 for π.",
+      "<br>(Hint: First, deduce the length and width of the carton by using the diameters of the cans)."
+    ],
+    "options": [
+      "1651.2 cm³",
+      "2448.5 cm³",
+      "3216.0 cm³",
+      "825.6 cm³"
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/6.png"
+  },
+  {
+    "questionNo": 19,
+    "question": [
+      "Liquid fertilizer fills a flat rectangular catchment tray measuring 80 cm long and 55 cm wide. Once the liquid level reaches exactly 8 cm high, the fertilizer is poured entirely into an empty cylindrical storage barrel with a radius of 20 cm. What will be the depth of the liquid inside the cylindrical barrel? Use ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π.",
+      "<br>The depth of the liquid in the barrel will be ______ cm."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "28"
+    ]
+  },
+  {
+    "questionNo": 20,
+    "question": [
+      "A solid wooden cube has a side length of 10 cm. An artisan uses a routing machine to cut a perfect semicircular trough into the top face, running across the entire length of the cube. The radius of this semicircular cut is 5 cm. Using 3.14 for π, calculate the volume of the remaining wooden solid."
+    ],
+    "options": [
+      "500.0 cm³",
+      "215.0 cm³",
+      "607.5 cm³",
+      "815.5 cm³"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/7.png"
+  }
+
+]
+
+
+    }
+  ]
+}
